@@ -1,0 +1,32 @@
+.Host {
+    margin: 12px 0;
+    padding: 12px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    font-size: 0.8rem;
+}
+
+.Info {
+    background-color: #E8F5E9;
+    color           : #2E7D32;
+}
+
+.Note {
+    background-color: #E3F2FD;
+    color: #1565C0;
+}
+
+.Code {
+    background-color: #FAFAFA;
+    color           : #424242
+}
+
+.Warning {
+    background-color: #FFFDE7;
+    color           : #F9A825;
+}
+
+.Error {
+    background-color: #FBE9E7;
+    color           : #D84315;
+}
